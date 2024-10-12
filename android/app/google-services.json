@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94808065173",
+    "project_id": "fir-message-e5a86",
+    "storage_bucket": "fir-message-e5a86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94808065173:android:154032999fd182d8f3c79c",
+        "android_client_info": {
+          "package_name": "com.notification_ap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBacd9lmyykQhbmhyq9Ja4eIc418ImukoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
